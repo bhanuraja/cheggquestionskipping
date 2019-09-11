@@ -1,4 +1,4 @@
-
+# Taken code from https://github.com/gsuitedevs/python-samples/blob/master/gmail/quickstart/quickstart.py with some modifications
 from __future__ import print_function
 
 import base64
